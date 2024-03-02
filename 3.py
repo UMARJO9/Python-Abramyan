@@ -1,0 +1,5 @@
+a = float (input("A :"))
+b = float (input("A :"))
+s = (a * b)
+p = a * (a + b)
+print(f'Плошад {s}\nПериметр {p}')
