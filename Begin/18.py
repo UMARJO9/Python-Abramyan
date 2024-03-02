@@ -1,0 +1,7 @@
+a = float(input("A : "))
+b = float(input("B : "))
+c = float(input("C : "))
+aс = abs(a - c)
+bc = abs(b - c)
+suma = (aс * bc)
+print(F"Длина AB:{aс}\nДлина BC:{bc}\nПроизвидение :{suma}")
